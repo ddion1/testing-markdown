@@ -101,10 +101,61 @@ ___
 
 Inline-style (hover to see title text):
 
-![alt text](img/markdown_logo.png "Title Text")
+![alt text](../img/markdown_logo.png "Title Text")
 
 Reference-style (hover to see title text):
 
-![alt text1][logo]
+# ![alt text1][logo]
 
-[logo]: img/markdown_logo.png "Title Text"
+[logo]: ../img/markdown_logo.png "Title Text"
+
+
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. HTML <em>tags</em> do <b>work</b>, in most cases.</dd>
+</dl>
+
+<p>
+<details>
+<summary>Click this to collapse/fold.</summary>
+
+These details <em>remain</em> <strong>hidden</strong> until expanded.
+
+<pre><code>
+
+1 un
+2 deux
+3 trois
+4 quatre
+
+</code></pre>
+
+</details>
+</p>
+
+
+<details>
+<summary>Click this to collapse/fold.</summary>
+
+These details _remain_ **hidden** until expanded.
+
+```
+PASTE LOGS HERE
+```
+
+</details>
+
+
+Here's a line for us to start with.
+
+This longer line is separated from the one above by two newlines, so it is a *separate paragraph*.
+
+This line is also a separate paragraph, but...
+These lines are only separated by single newlines,
+so they *do not break* and just follow the previous lines
+in the *same paragraph*.
+
+- This line links to [a section on a different Markdown page, using a "#" and the header ID](documentation.md#overview)
