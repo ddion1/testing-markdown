@@ -52,6 +52,8 @@ Quote break.
 ...you can quote that without having to manually prepend `>` to every line!
 >>>
 
+# Testing-Header-Anchor
+
 ```python
 def function():
     #indenting works just fine in the fenced code block
@@ -159,3 +161,7 @@ so they *do not break* and just follow the previous lines
 in the *same paragraph*.
 
 - This line links to [a section on a different Markdown page, using a "#" and the header ID](documentation.md#overview)
+
+- This line links to [a different section on the same page, using a "#" and the header ID](#testing-header-anchor)
+- - This line links to [a different section on the same page, using a "#" and the header ID](#header-ids-and-links)
+- 
