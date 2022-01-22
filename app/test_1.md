@@ -35,5 +35,5 @@ Consult the [Emoji Cheat Sheet](https://www.emojicopy.com) for a list of all sup
 - {- deletion 3 -}
 - {- deletion 4 -}
 
-[Link to Documentation](documentation)
+[Link to Documentation](documentation.md)
 
