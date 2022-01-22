@@ -68,6 +68,7 @@ def function():
     print s
 ~~~
 
+# Testing Header Anchor
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
@@ -162,6 +163,6 @@ in the *same paragraph*.
 
 - This line links to [a section on a different Markdown page, using a "#" and the header ID](documentation.md#overview)
 
-- This line links to [a different section on the same page, using a "#" and the header ID](#testing-header-anchor)
+- This line links to [a different section on the same page, using a "#" and the header ID](#testing-header-anchor1)
 - - This line links to [a different section on the same page, using a "#" and the header ID](#header-ids-and-links)
 - 
