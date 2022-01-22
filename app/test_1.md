@@ -37,3 +37,49 @@ Consult the [Emoji Cheat Sheet](https://www.emojicopy.com) for a list of all sup
 
 [Link to Documentation](documentation.md)
 
+> Blockquotes help you emulate reply text.
+> This line is part of the same quote.
+
+Quote break.
+
+> This very long line is still quoted properly when it wraps. Keep writing to make sure this line is long enough to actually wrap for everyone. You can also *add* **Markdown** into a blockquote.
+
+>>>
+...If you paste a message from somewhere else
+
+...that spans multiple lines,
+
+...you can quote that without having to manually prepend `>` to every line!
+>>>
+
+```python
+def function():
+    #indenting works just fine in the fenced code block
+    s = "Python code"
+    print s
+```
+
+~~~python
+def function():
+    #indenting works just fine in the fenced code block
+    s = "Python code"
+    print s
+~~~
+
+Emphasis, aka italics, with *asterisks* or _underscores_.
+
+Strong emphasis, aka bold, with double **asterisks** or __underscores__.
+
+Combined emphasis with **asterisks and _underscores_**.
+
+Strikethrough uses two tildes. ~~Scratch this.~~
+    
+    
+    
+A footnote reference tag looks like this: [^1]
+
+This reference tag is a mix of letters and numbers. [^footnote-42]
+
+[^1]: This text is inside a footnote.
+
+[^footnote-42]: This text is another footnote.
