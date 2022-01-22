@@ -221,3 +221,8 @@ Some text to show that the reference links can follow later.
 | :---         | :---:    | ---:          |
 | Cell 1       | Cell 2   | Cell 3        |
 | Cell 4       | Cell 5   | Cell 6        |
+
+| header 1 | header 2 |
+| ---      | ---      |
+| cell 1   | cell 2   |
+| cell 3   | <ul><li> - [ ] Task one </li><li> - [ ] Task two </li></ul> |
