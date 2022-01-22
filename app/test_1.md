@@ -66,6 +66,7 @@ def function():
     print s
 ~~~
 
+
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
 Strong emphasis, aka bold, with double **asterisks** or __underscores__.
@@ -83,3 +84,27 @@ This reference tag is a mix of letters and numbers. [^footnote-42]
 [^1]: This text is inside a footnote.
 
 [^footnote-42]: This text is another footnote.
+
+
+Three or more hyphens,
+
+---
+
+asterisks,
+
+***
+
+or underscores
+
+___
+
+
+Inline-style (hover to see title text):
+
+![alt text](img/markdown_logo.png "Title Text")
+
+Reference-style (hover to see title text):
+
+![alt text1][logo]
+
+[logo]: img/markdown_logo.png "Title Text"
