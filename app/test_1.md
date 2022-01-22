@@ -30,8 +30,8 @@ If you're new to this, don't be :fearful:. You can join the emoji :family:. Just
 
 Consult the [Emoji Cheat Sheet](https://www.emojicopy.com) for a list of all supported emoji codes. :thumbsup:
 
-- (+ addition 1 +)
-- {+ addition 2 +}
+- [+ addition 1 +]
+- [+ addition 2 +]
 - {- deletion 3 -}
 - {- deletion 4 -}
 
