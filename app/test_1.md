@@ -189,3 +189,12 @@ Some text to show that the reference links can follow later.
 [arbitrary case-insensitive reference text]: https://www.mozilla.org/en-US/
 [1]: https://slashdot.org
 [link text itself]: https://www.reddit.com
+
+
+
+- https://www.google.com
+- https://www.google.com
+- ftp://ftp.us.debian.org/debian/
+- smb://foo/bar/baz
+- irc://irc.freenode.net/
+- http://localhost:3000
